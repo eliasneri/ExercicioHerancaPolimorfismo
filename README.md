@@ -1,6 +1,6 @@
 # Exercicio de Fixação Heranca e Polimorfismo
 <br>
-##Enunciado
+<h2>Enunciado</h2>
 <br>
 Uma empresa possui funcionários próprios e terceirizados.
 Para cada funcionário, deseja-se registrar nome, horas
